@@ -114,6 +114,7 @@
 
 ## C 
 
+- [HashCheck](https://github.com/gurnec/HashCheck) - HashCheck Shell Extension for Windows with added SHA2, SHA3, and multithreading; originally from code.kliu.org
 - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [netfilter-full-cone-nat](https://github.com/Chion82/netfilter-full-cone-nat) - A kernel module that turns MASQUERADE into full cone SNAT
 - [HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Windows Driver
@@ -502,7 +503,7 @@
 - [awesome-go-zh](https://github.com/chai2010/awesome-go-zh) - :books: Go资源精选中文版(含中文图书大全)
 - [gosec](https://github.com/securego/gosec) - Golang security checker
 - [nps](https://github.com/cnlh/nps) - 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
-- [kunpeng](https://github.com/opensec-cn/kunpeng) - kunpeng是一个Golang编写的开源POC检测框架，以动态链接库的形式提供各种语言调用，通过此项目可快速开发漏洞检测类的系统。
+- [kunpeng](https://github.com/opensec-cn/kunpeng) - kunpeng是一个Golang编写的开源POC框架/库，以动态链接库的形式提供各种语言调用，通过此项目可快速开发漏洞检测类的系统。
 - [cmus-lyric](https://github.com/rockagen/cmus-lyric) - cmus lyric viewer
 - [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 - [auxpi](https://github.com/aimerforreimu/auxpi) - 🍭 集合多家 API 的新一代图床
@@ -653,7 +654,7 @@
 ## HTML 
 
 - [mall](https://github.com/chg122345/mall) - ssm小商城
-- [springboot-manage](https://github.com/zaiyunduan123/springboot-manage) - 基于SpringBoot+Mybatis+Thymeleaf+Redis+MySQL开发的商品信息管理系统
+- [springboot-manage](https://github.com/zaiyunduan123/springboot-manage) - 基于SpringBoot + Mybatis + Thymeleaf + Redis + MongoDB + MySQL开发的商品信息管理系统
 - [frida-all-in-one](https://github.com/hookmaster/frida-all-in-one) - 《FRIDA操作手册》by @hluwa @r0ysue
 - [live](https://github.com/buyingfei/live) - 完整搭建直播平台实例
 - [zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
@@ -785,7 +786,7 @@
 - [HackBar](https://github.com/d3vilbug/HackBar) - HackBar plugin for Burpsuite v1.0
 - [traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [XSSBlindInjector](https://github.com/Conanjun/XSSBlindInjector) - burp插件，实现自动化xss盲打以及xss log
-- [Spring-Project-Tree](https://github.com/yueshutong/Spring-Project-Tree) - 新人熟悉项目必备工具！基于Spring环境开发的一款方法调用链分析框架，简单到只需要一个注解，异步非阻塞，完美嵌入Spring Cloud、Dubbo项目！再也不用担心搞不懂项目！
+- [Spring-Project-Tree](https://github.com/yueshutong/Spring-Project-Tree) - 新人熟悉项目必备工具！基于SpringAOP开发的一款方法调用链分析框架，简单到只需要一个注解，异步非阻塞，完美嵌入Spring Cloud、Dubbo项目！再也不用担心搞不懂项目！
 - [chunked-coding-converter](https://github.com/c0ny1/chunked-coding-converter) - Burp suite 分块传输辅助插件
 - [SpringCloudLesson](https://github.com/lynnlovemin/SpringCloudLesson) - SpringCloud从入门到精通系列课程
 - [locker](https://github.com/Dreamroute/locker) - mybatis乐观锁插件,MyBatis Optimistic Locker Plugin
@@ -934,6 +935,7 @@
 
 ## JavaScript 
 
+- [ss-panel-v3-mod_Uim](https://github.com/Anankke/ss-panel-v3-mod_Uim) - 基于ss-panel-v3-mod的 UI 修改版
 - [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
 - [vsc-netease-music](https://github.com/nondanee/vsc-netease-music) - UNOFFICIAL Netease Music extension for Visual Studio Code
 - [html5-dash-hls-rtmp](https://github.com/Tinywan/html5-dash-hls-rtmp) - :sunflower: HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权
@@ -1018,7 +1020,7 @@
 - [oss-browser](https://github.com/aliyun/oss-browser) - OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
 - [baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) - ⚡️ 百度网盘不限速下载器 BND，支持 Windows、Mac 和 Linux。
 - [DeerResume](https://github.com/geekcompany/DeerResume) - MarkDown在线简历工具，可在线预览、编辑和生成PDF。[此项目已不再维护，建议使用 cv.ftqq.com 替代 ]
-- [marktext](https://github.com/marktext/marktext) - 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
+- [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [userguide](https://github.com/UbuntuBar/userguide) - Ubuntu 吧用户指南
 - [V2RayGeoKit](https://github.com/KafuuChinoQ/V2RayGeoKit) - 
 - [AWVS11.X-Chinese-Version](https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version) - AWVS11.X汉化包|AWVS11.X-Chinese-Version
@@ -1315,6 +1317,7 @@
 
 ## Others 
 
+- [security_w1k1](https://github.com/euphrat1ca/security_w1k1) - collect
 - [awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
 - [DarthSidious](https://github.com/chryzsh/DarthSidious) - Building an Active Directory domain and hacking it
 - [web-sec-interview](https://github.com/zhaoweiho/web-sec-interview) - 信息安全(Web安全/渗透测试方向)面试题/解题思路
@@ -1342,7 +1345,6 @@
 - [MITRE-ATT-CK-CN](https://github.com/klionsec/MITRE-ATT-CK-CN) - 
 - [orcs](https://github.com/WebBreacher/orcs) - OSINT Resource Classification System
 - [awesome-risk-control](https://github.com/yangliang1415/awesome-risk-control) - 风控知识总结
-- [hackingLibrary](https://github.com/myselfexplorer/hackingLibrary) - ‪APT,‬ ‪Cyber warfare,‬ ‪Penetration testing,‬ ‪Zero-day,Exploiting,‬Fuzzing,Privilege-Escalation,browser-security‪,Spyware,Malwres evade anti-virus detection,‬ ‪Rookit CYPTER,‬ ‪Antiviruses Bypassing-av,‬ social engineering,WORMS,Sandbox-Escape,‬ ‪Memory-injection,‬ ‪Ethical,Gray,White,RedTeam,Bugbounty,bug hunter,Cheat Sheet‬...
 - [list-pentest-tools](https://github.com/GoVanguard/list-pentest-tools) - A curated list of network penetration testing tools.
 - [reverse-shell-cheatsheet](https://github.com/ismailtasdelen/reverse-shell-cheatsheet) - 🙃 Reverse Shell Cheat Sheet 🙃
 - [HackingResource](https://github.com/xuanhun/HackingResource) - “玄魂工作室--安全圈” 知识星球内资源汇总
@@ -2106,7 +2108,7 @@
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [Geetest3-Crack](https://github.com/Hsury/Geetest3-Crack) - 🤖 Geetest3 Distributed Cracking Platform 极验3代分布式破解平台
 - [xupload](https://github.com/3xp10it/xupload) - A tool for automatically testing whether the upload function can upload webshell
-- [funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLP太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包。
+- [funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包，自带了训练好的识别模型、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”，产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包。
 - [WorkScripts](https://github.com/c0ny1/WorkScripts) - 信息安全工程师工作常用脚本
 - [awesome-scoop](https://github.com/tapanchandra/awesome-scoop) - A collection of awesome resources for the scoop package manager for windows
 - [mpDNS](https://github.com/nopernik/mpDNS) - Multi-Purpose DNS Server
