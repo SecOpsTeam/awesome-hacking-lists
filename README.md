@@ -413,12 +413,13 @@
 
 ## CSS 
 
+- [Django-XSS-Platform](https://github.com/HackerYunen/Django-XSS-Platform) - 
 - [StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜,为Github创意项目写一本推荐书，让Github优秀项目造福人类~ Github apocalypse list, write a letter of recommendation for Github's outstanding projects, and let Github excellent projects benefit humanity~
 - [SocialFish](https://github.com/UndeadSec/SocialFish) - Educational Phishing Tool & Information Collector
 - [orangescan](https://github.com/0xbug/orangescan) - 在线子域名信息收集工具
 - [Mojave-gtk-theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell
 - [using-docker-kubernetes-for-automating-appsec-and-osint-workflows](https://github.com/appsecco/using-docker-kubernetes-for-automating-appsec-and-osint-workflows) - Repository for all the workshop content delivered at nullcon X on 1st of March 2019
-- [w12scan](https://github.com/boy-hack/w12scan) - 🚀 A simple asset discovery engine for cybersecurity. (网络资产发现引擎)
+- [w12scan](https://github.com/w-digital-scanner/w12scan) - 🚀 A simple asset discovery engine for cybersecurity. (网络资产发现引擎)
 - [document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序等……
 - [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
 - [hugo-theme-even](https://github.com/billryan/hugo-theme-even) - 🚀 A super concise theme for Hugo https://blog.olowolo.com/example-site/
@@ -467,6 +468,7 @@
 - [docker-nps](https://github.com/pingod/docker-nps) - 
 - [CVE-2019-6467](https://github.com/knqyf263/CVE-2019-6467) - CVE-2019-6467 (BIND nxdomain-redirect)
 - [centos-tomcat](https://github.com/kirillF/centos-tomcat) - Docker CentOs 7 + Java 8 + Tomcat 8
+- [docker-ttrss-plugins](https://github.com/HenryQW/docker-ttrss-plugins) - 🐋 A Dockerized powerful all-in-one Tiny Tiny RSS solution
 - [lnmp](https://github.com/khs1994-docker/lnmp) - :computer: :whale: :elephant: :dolphin: :penguin: :rocket: Start Docker LNMP(LEMP) In less than 2 minutes Powered by Docker Compose. The GOAL of this project is to help PHPer Run LNMP Container On Kubernetes In production environment.
 - [docker-transmission](https://github.com/linuxserver/docker-transmission) - 
 - [rtorrent-rutorrent](https://github.com/diameter/rtorrent-rutorrent) - Docker container with supervisor/rtorrent/nginx/ruTorrent 64/32 bit
@@ -491,6 +493,10 @@
 
 ## Go 
 
+- [mr2](https://github.com/txthinking/mr2) - Expose local server to external network
+- [Finder](https://github.com/az0ne/Finder) - 一款Go语言实现的端口扫描器.
+- [goSkylar](https://github.com/LakeVilladom/goSkylar) - 基于Golang开发的企业级外网端口资产扫描
+- [arpZebra](https://github.com/Virus-V/arpZebra) - ARP+DNS欺骗工具，网络安全第三次实验，课堂演示用，严禁非法用途。ARPSpoof，wifi hijack，dns spoof
 - [k3os](https://github.com/rancher/k3os) - Purpose built OS for Kubernetes, fully managed by Kubernetes.
 - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [vscan-go](https://github.com/RickGray/vscan-go) - golang version for nmap service and application version detection (without nmap installation)
@@ -500,9 +506,10 @@
 - [dnstunnel](https://github.com/ice-ice/dnstunnel) - dns tunnel backdoor  DNS隧道后门
 - [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux/FreeBSD/WordPress/Programming language libraries/Network devices
 - [pathbrute](https://github.com/milo2012/pathbrute) - Pathbrute
-- [whatweb](https://github.com/l3m0n/whatweb) - WEB指纹识别 - gowap基础上修改的golang版本
+- [whatweb](https://github.com/l3m0n/whatweb) - 更快速的进行Web应用指纹识别
 - [goWhatweb](https://github.com/boy-hack/goWhatweb) - [学习GO] go语言写的web指纹识别 - Identify websites by go language
 - [livego](https://github.com/gwuhaolin/livego) - 纯 Go 写的直播服务器
+- [Go42](https://github.com/ffhelicopter/Go42) - 写《Go语言四十二章经》，纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书。
 - [meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [dnsbrute](https://github.com/Q2h1Cg/dnsbrute) - a fast domain brute tool
 - [goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner
@@ -664,6 +671,8 @@
 
 ## HTML 
 
+- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [Real-timeDetectionAD_ver2](https://github.com/sisoc-tokyo/Real-timeDetectionAD_ver2) - 
 - [sec_profile](https://github.com/tanjiti/sec_profile) - 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)
 - [mall](https://github.com/chg122345/mall) - ssm小商城
@@ -701,8 +710,7 @@
 - [fuzzdb](https://github.com/tennc/fuzzdb) - 一个fuzzdb扩展库
 - [wordpress-vulscan](https://github.com/archiviral/wordpress-vulscan) - WordPress vulnerability scanner
 - [linux-explorer](https://github.com/intezer/linux-explorer) - Easy-to-use live forensics toolbox for Linux endpoints
-- [geek-navigation](https://github.com/geekape/geek-navigation) - :star:极客猿梦导航，响应式静态导航页面(Vue版)[https://github.com/geekape/geek-navigation/tree/vue2]
-- [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.
+- [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
 - [CV](https://github.com/Wscats/CV) - :see_no_evil:《切图仔面试宝典》曾立心想放弃，仍竭力以心献技
 - [HadoopAndSparkDataStudy](https://github.com/chu888chu888/HadoopAndSparkDataStudy) - 这是一本关于大数据学习记录的手册,主要针对初学者.做为一个老IT工作者,学习是一件很辛苦的事情.希望这本手册对帮助大家快速的学习与认识大数据(特指Hadoop Spark),为了不让初学者一下接触爆炸式的新概念,我们会以实验先行,概念跟进的方式进行课程学习,这样有利于大家快速进入状态,而不至于一直深陷逻辑概念出不来,但是每个人的学习方式不一样,仁者见仁智者见智吧.大家如果有意见请给我发邮件chu888chu888@qq.com — 楚广明
 - [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
@@ -771,11 +779,15 @@
 
 ## Java 
 
+- [java-sec-code](https://github.com/JoyChou93/java-sec-code) - Java常见通用漏洞和修复的代码以及利用payload
+- [vulnerability-assessment-tool](https://github.com/SAP/vulnerability-assessment-tool) - Analyses your Java and Python applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.  https://sap.github.io/vulnerability-assessment-tool/
+- [rhizobia_J](https://github.com/momosecurity/rhizobia_J) - JAVA安全SDK及编码规范
+- [Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action) - Spring Boot 系列实战合集
 - [javaweb-codereview](https://github.com/anbai-inc/javaweb-codereview) - javaweb-codereview
 - [jsEncrypter](https://github.com/c0ny1/jsEncrypter) - 一个用于加密传输爆破的Burp Suite插件
 - [answerWeb](https://github.com/malizhigithub/answerWeb) - 基于SSM在线答题系统
 - [Java_deserialize_vuln_lab](https://github.com/bit4woo/Java_deserialize_vuln_lab) - Java 反序列化学习的实验代码 Java_deserialize_vuln_lab
-- [starrtc-android-demo](https://github.com/starrtc/starrtc-android-demo) - 🚀starRTC，免费IM（含单聊，群聊，聊天室），免费一对一视频聊天（回音消除），语音聊天，直播连麦，白板，小班课，多人会议，局域网无服务器直连，兼容webRTC, 支持webRTC加速，P2P高清传输，安卓、iOS、web互通，支持门禁可视对讲，电视盒子，树莓派，海思，全志，任天堂switch，云游戏，OTT设备，C语言自研方案，✨万水千山总是情，来个star行不行✨，更多示例请访问：
+- [starrtc-android-demo](https://github.com/starrtc/starrtc-android-demo) - 🚀starRTC，即时通讯(IM)系统，免费IM系统（含单聊，群聊，聊天室，文件传输），免费一对一视频聊天，VOIP，语音对讲（回音消除），直播连麦，视频直播，RTSP拉流，RTMP推流，webRTC服务端，在线教育，白板，小班课，在线会议，视频会议，局域网直连（无需服务器），兼容webRTC, 支持webRTC加速，P2P高清传输，安卓、iOS、web互通，支持门禁对讲，可视对讲，电视盒子，树莓派，海思，全志，任天堂switch，云游戏，OTT设备，物联网平台，C语言自研方案，支持二次开发成类微信，类映客等APP，✨万水千山总是情，来个star行不行✨，更多示例请访问：
 - [SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Security，博客Spring系列源码
 - [Gotrip](https://github.com/lorateam/Gotrip) - 民宿旅游管理系统，SSM框架实现
 - [EStore](https://github.com/hsingyin/EStore) - 一个基于JavaWeb的网上电子购物城项目，实现展示商品、购买商品、提交订单、持久化保存到数据库等基本功能
@@ -812,6 +824,7 @@
 - [mytwitter](https://github.com/b2stry/mytwitter) - 一个模仿Twitter的Java Web项目（基于原生的Servlet）
 - [APIJSON](https://github.com/APIJSON/APIJSON) - 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [manong-ssm](https://github.com/wistbean/manong-ssm) - 基于SSM框架的Java分布式电商项目
 - [retailscm-biz-suite](https://github.com/doublechaintech/retailscm-biz-suite) - 供应链，零售供应链中台系统，集成零售管理, 电子商务, 供应链管理,  财务管理, 车队管理, 仓库管理, 人员管理, 产品管理, 订单管理, 会员管理, 连锁店管理, 加盟管理, 前端React/Ant Design, 后端Java Spring+自有开源框架，通过REST接口调用，前后端完全分离。
 - [S-mall-ssm](https://github.com/xenv/S-mall-ssm) - 小小商城系统，JavaWEB项目，基于SSM，仿天猫页面，功能齐全，实现了自动处理关联查询的通用Mapper、抽象 BaseService 类、注解鉴权、参数注解校验等
@@ -823,13 +836,14 @@
 - [Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
-- [weixin-bot](https://github.com/Maweiming/weixin-bot) - 使用微信Api实现微信客户端功能（使用Java开发） 可用于监控女朋友是否出轨
+- [weixin-bot](https://github.com/Maweiming/weixin-bot) - 使用微信Api实现微信客户端功能（使用Java开发） 可用于监控女朋友是否出轨、特别关心钉钉提醒功能
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识
 - [JrebelBrainsLicenseServerforJava](https://github.com/ESPataPon/JrebelBrainsLicenseServerforJava) - 
 - [MyBatisCodeHelper-Pro-Crack](https://github.com/pengzhile/MyBatisCodeHelper-Pro-Crack) - Crack for Intellij IDEA plugin: MybatisCodeHelperPro.
 - [Java-Web-Security](https://github.com/dschadow/Java-Web-Security) - Java-Web-Security - Sichere Webanwendungen mit Java entwickeln
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [jndiat](https://github.com/quentinhardy/jndiat) - JNDI Attacking Tool
-- [TrackRay](https://github.com/iSafeBlue/TrackRay) - 溯光 (Trackray) 2.0 一个微服务插件式渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描）
+- [TrackRay](https://github.com/iSafeBlue/TrackRay) - 溯光 (TrackRay) 3 插件式渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|AWVS|NMAP|Metasploit|渗透测试）
 - [gitstar-ranking](https://github.com/k0kubun/gitstar-ranking) - GitHub star ranking for users, organizations and repositories
 - [AES-Killer](https://github.com/Ebryx/AES-Killer) - Burp plugin to decrypt AES Encrypted traffic of mobile apps on the fly
 - [MyTech](https://github.com/h2pl/MyTech) - Java的基础总结和学习笔记，包括Java核心技术点和常见知识点。同时提供了Java基础原理的代码实现，供大家实践时参考。已补充JVM和JUC的相关内容，欢迎交流。
@@ -955,6 +969,8 @@
 
 ## JavaScript 
 
+- [Kiddy](https://github.com/Magicskys/Kiddy) - 被动式扫描器
+- [lxhToolHTTPDecrypt](https://github.com/lyxhh/lxhToolHTTPDecrypt) - HTTPDecrypt
 - [ant](https://github.com/AntSwordProject/ant) - 实时上线的 XSS 盲打平台
 - [showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [tool](https://github.com/Louiszhai/tool) - 开发效率提升：Mac生产力工具链推荐
@@ -1260,7 +1276,6 @@
 - [Duke-STA-663-CN](https://github.com/Kivy-CN/Duke-STA-663-CN) - A Chinese Translation of the Resources for Duke University STA 663 杜克大学计算机统计学（Python）全部内容的中文翻译
 - [pandas-videos](https://github.com/justmarkham/pandas-videos) - Jupyter notebook and datasets from the pandas Q&A video series
 - [pandas-zh](https://github.com/DataMininginAction/pandas-zh) - pandas 0.19.2 文档中文版
-- [python-cheat-sheet](https://github.com/juliangaal/python-cheat-sheet) - Python Cheat Sheet NumPy, Matplotlib
 - [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 - [pycon-pandas-tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial) - PyCon 2015 Pandas tutorial materials
 - [jupyter_hub](https://github.com/hanxlinsist/jupyter_hub) - 机器学习算法、可视化、数据分析的Python代码
@@ -1343,6 +1358,10 @@
 
 ## Others 
 
+- [js-book](https://github.com/qdlaoyao/js-book) - 《JavaScript 迷你书》，全面夯实基础
+- [Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - A collection of open source and commercial tools that aid in red team operations.
+- [MSSQL_SQL_BYPASS_WIKI](https://github.com/aleenzz/MSSQL_SQL_BYPASS_WIKI) - MSSQL注入提权,bypass的一些总结
+- [web-hack](https://github.com/xiangbab/web-hack) - 一份网络安全入门的资料。
 - [awesome-macos-command-line-zh](https://github.com/nusr/awesome-macos-command-line-zh) - Use your macOS terminal shell to do awesome things(用你的 macOS 终端搞事情)
 - [Awesome-Advanced-Windows-Exploitation-References](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References) - List of Awesome Advanced Windows Exploitation References
 - [MYSQL_SQL_BYPASS_WIKI](https://github.com/aleenzz/MYSQL_SQL_BYPASS_WIKI) - mysql注入,bypass的一些心得
@@ -1370,7 +1389,6 @@
 - [SaiDict](https://github.com/Stardustsky/SaiDict) - 弱口令,敏感目录,敏感文件等渗透测试常用攻击字典
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 - [Newbie-Security-List](https://github.com/findneo/Newbie-Security-List) - 网络安全学习资料，欢迎补充
-- [Go42](https://github.com/ffhelicopter/Go42) - 写《Go语言四十二章经》，纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书。
 - [apt-basic-courses](https://github.com/greekn/apt-basic-courses) - 学习高持续攻击思路，不断Get新姿势，定向攻击模块化流程化，遵守渗透守则。
 - [fancyss_history_package](https://github.com/hq450/fancyss_history_package) - 科学上网插件的离线安装包储存在这里
 - [CVE-2018-1335-EXP-GUI](https://github.com/SkyBlueEternal/CVE-2018-1335-EXP-GUI) - GUI版 EXP
@@ -1410,7 +1428,6 @@
 - [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) - Awesome Golang Security resources 🕶🔐
 - [NET-Deserialize](https://github.com/Ivan1ee/NET-Deserialize) - 总结了十篇.Net反序列化文章，持续更新
 - [golang-anything-recommend](https://github.com/chunlintang/golang-anything-recommend) - :fire: 让阅读变成一件有意义的事。Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章.
-- [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn) - 😁 git commit message emoji 使用指南
 - [mapSource](https://github.com/lyz8jj0/mapSource) - java基础思维导图(还有mybatis,spring)
 - [Pentest_Interview](https://github.com/Leezj9671/Pentest_Interview) - 个人准备渗透测试和安全面试的经验之谈，和去部分厂商的面试题，干货真的满满~
@@ -1432,7 +1449,6 @@
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - [src](https://github.com/cvkki/src) - 日常src平台域名收集
 - [Hacking-With-Golang](https://github.com/re4lity/Hacking-With-Golang) - Golang安全资源合集
-- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [DarthSidious-Chinese](https://github.com/crazywa1ker/DarthSidious-Chinese) - DarthSidious 中文版
 - [FEGuide](https://github.com/FEGuideTeam/FEGuide) - 【前端面试题+前端学习+面试指南】 一份涵盖大部分前端工程师所需要掌握的核心知识。这个项目就是为了帮助那些找工作的前端开发工程师去回顾前端的基础知识，如果你不想找工作，也可以通过查看这些面试问题去巩固你的前端技能。
 - [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows GUI based on Clash
@@ -1443,12 +1459,13 @@
 - [The-Economist](https://github.com/nailperry-zd/The-Economist) - The Economist 经济学人，持续更新
 - [intellij-idea-tutorial](https://github.com/guobinhit/intellij-idea-tutorial) - 🌻   This is a tutorial of IntelliJ IDEA, you can know how to use IntelliJ IDEA better and better.
 - [cobaltstrike3.12_cracked](https://github.com/ssooking/cobaltstrike3.12_cracked) - Cracked Cobaltstrike3.12 Trial Version
-- [CobaltStrike_wiki](https://github.com/evilwing/CobaltStrike_wiki) - Cobalt Strike 3.12中文文档
+- [CobaltStrike_wiki](https://github.com/RedTeamWing/CobaltStrike_wiki) - Cobalt Strike 3.12中文文档
 - [cobalt_strike_3.12_patch](https://github.com/Lz1y/cobalt_strike_3.12_patch) - Cobalt Strike v3.12 patch
 - [Cobaltstrike-Trial](https://github.com/microidz/Cobaltstrike-Trial) - 
 - [Behinder](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端
 - [web-develop](https://github.com/SFLAQiu/web-develop) - :sparkles:《大话WEB开发》WEB开发相关经验总结分享 :fire:
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
+- [laravel](https://github.com/xiaohuilam/laravel) - Laravel 深入详解 —— 源代码解析，新手进阶指南
 - [Burp-Suite-2.0-chinese-document](https://github.com/Boreas514/Burp-Suite-2.0-chinese-document) - 中文版burp2.0官方文档
 - [CS-Notes-PDF](https://github.com/sjsdfg/CS-Notes-PDF) - https://github.com/CyC2018/CS-Notes PDF版本离线阅读
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
@@ -1489,7 +1506,6 @@
 - [awesome-cerebro](https://github.com/lubien/awesome-cerebro) - Curated list of Cerebro plugins and resources
 - [Struts-S2-xxx](https://github.com/sie504/Struts-S2-xxx) - 整理收集Struts2漏洞环境
 - [docker-security](https://github.com/Kutim/docker-security) - docker 安全基线规范
-- [awesome-windows-security-development](https://github.com/DragonQuestHero/awesome-windows-security-development) - awesome-windows-security-development
 - [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等
@@ -1501,7 +1517,7 @@
 - [50weekly](https://github.com/ihtml5/50weekly) - 50weekly 发现高质量的前端资源  第三十一周已更新
 - [The-Security-Handbook-Kali-Linux](https://github.com/DictionaryHouse/The-Security-Handbook-Kali-Linux) - A useful reference guide and a handbook of security basics for those starting out.
 - [Cyberspace_Security_Learning](https://github.com/q1271964185/Cyberspace_Security_Learning) - 在学习CTF、网络安全路上整合自己博客和一些资料，持续更新~
-- [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) - 网络空间安全相关的RSS订阅
+- [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) - RSS: 优秀的个人情报来源
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
 - [docker-shadowsocks-with-simple-obfs](https://github.com/hitian/docker-shadowsocks-with-simple-obfs) - shadowsocks-libev with simple-obfs
@@ -1623,7 +1639,7 @@
 - [Awesome-Deep-Learning-for-Chinese](https://github.com/bo-xiong/Awesome-Deep-Learning-for-Chinese) - 最全的中文版深度学习资源索引，包括论文，慕课，开源框架，数据集等等
 - [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers
 - [web-hacking-101-zh](https://github.com/wizardforcel/web-hacking-101-zh) - :book: [译] Web Hacking 101 中文版
-- [Awesome-Vulnerability-Research](https://github.com/malicious0x01/Awesome-Vulnerability-Research) - 🦄 A curated list of the awesome resources about the Vulnerability Research
+- [Awesome-Vulnerability-Research](https://github.com/sergey-pronin/Awesome-Vulnerability-Research) - 🦄 A curated list of the awesome resources about the Vulnerability Research
 - [OSCP-Survival-Guide](https://github.com/frizb/OSCP-Survival-Guide) - Kali Linux Offensive Security Certified Professional Survival Exam Guide
 - [Google-IP-Range](https://github.com/yeahwu/Google-IP-Range) - 一个超大的 Google 全球 IP 扫描范围库
 - [Androl4b](https://github.com/sh4hin/Androl4b) - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
@@ -1652,7 +1668,7 @@
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [wooyunallbugs](https://github.com/m0l1ce/wooyunallbugs) - wooyun_all_bugs
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
-- [SurgeRule](https://github.com/jinyu121/SurgeRule) - 一个可定制的 Surge 规则集
+- [SurgeRule](https://github.com/jinyu121/SurgeRule) - Deprecate since 2016
 - [Exploit-Exercises-Nebula](https://github.com/1u4nx/Exploit-Exercises-Nebula) - Exploit-Exercises Nebula全攻略——Linux平台下的漏洞分析入门
 - [Docker-Secure-Deployment-Guidelines](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) - Deployment checklist for securely deploying Docker
 - [vulnerability-analysis-report](https://github.com/joyceqi/vulnerability-analysis-report) - here records some personal vulnerability analysis reports
@@ -1823,8 +1839,6 @@
 - [docker-ttrss](https://github.com/nVentiveUX/docker-ttrss) - Tiny Tiny RSS as a Docker container
 - [OLAINDEX](https://github.com/WangNingkai/OLAINDEX) - ✨ Another OneDrive Directory Index
 - [down_52pojie_cn](https://github.com/ganlvtech/down_52pojie_cn) - A single page file explorer that can be hosted on static website. 吾爱破解论坛 爱盘 down.52pojie.cn 页面的源代码
-- [docker-ttrss-plugins](https://github.com/HenryQW/docker-ttrss-plugins) - 🐋 A Dockerized powerful all-in-one Tiny Tiny RSS solution
-- [laravel](https://github.com/xiaohuilam/laravel) - Laravel 深入浅出指南 —— Laravel 5.7 源代码解析，新手进阶指南。
 - [meedu](https://github.com/Qsnh/meedu) - 基于Laravel开发的在线点播系统。
 - [webshell-sample](https://github.com/ysrc/webshell-sample) - 收集自网络各处的 webshell 样本，用于测试 webshell 扫描器检测率。
 - [SVScanner](https://github.com/radenvodka/SVScanner) - SVScanner - Scanner Vulnerability And MaSsive Exploit.
@@ -1869,7 +1883,6 @@
 - [regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet) - 
 - [typecho2Hexo](https://github.com/NewbMiao/typecho2Hexo) - typecho批量转Hexo
 - [easy-sms](https://github.com/overtrue/easy-sms) - :calling: 一款满足你的多种发送需求的短信发送组件
-- [SSRPanel](https://github.com/ssrpanel/SSRPanel) - An Account Managent Panel Which Is Used For Shadowsocks & ShadowsocksR & V2Ray & VNET
 - [card-system](https://github.com/Tai7sy/card-system) - 个人在线发卡系统，高效安全的发卡平台
 - [avenger-sh](https://github.com/aszone/avenger-sh) - Project for finding vunerabilities in mass.
 - [w3a_SOC](https://github.com/smarttang/w3a_SOC) - Web日志审计与网络监控集合一身的平台
@@ -2030,6 +2043,13 @@
 
 ## Python 
 
+- [BurpCollect](https://github.com/orleven/BurpCollect) - 基于BurpCollector的二次开发， 记录Burpsuite Site Map记录的里的数据包中的目录路径参数名信息，并存入Sqlite，并可导出txt文件。
+- [Webfinger](https://github.com/se55i0n/Webfinger) - web指纹识别
+- [TideFinger](https://github.com/TideSec/TideFinger) - TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
+- [OSweep](https://github.com/ecstatic-nobel/OSweep) - Don't Just Search OSINT. Sweep It.
+- [FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - OSINT Tool for All-In-One Web Reconnaissance
+- [pbscan](https://github.com/jiangsir404/pbscan) - 基于burpsuite headless 的代理式被动扫描系统
+- [web-log-parser](https://github.com/JeffXue/web-log-parser) - web日志分析工具
 - [osprey](https://github.com/TophantTechnology/osprey) - 
 - [RedisDirScan](https://github.com/r35tart/RedisDirScan) - 此脚本用于测试 Rdies 未授权访问，在没权限写ssh私钥和定时任务又不知道web绝对路径的情况下，进行WEB目录探测
 - [ODIN](https://github.com/chrismaddalena/ODIN) - Automated network asset, email, and social media profile discovery and cataloguing.
@@ -2047,7 +2067,7 @@
 - [Web-Scan](https://github.com/98587329/Web-Scan) - jboss，tomcat，weblogic，未授权访问扫描工具
 - [awd-platform](https://github.com/zhl2008/awd-platform) - platform for awd
 - [FileCheck](https://github.com/grayddq/FileCheck) - 本脚本是HIDS组成的一部分，旨在对指定监控目录进行文件hash记录，定时运行，发现文件替换、修改等后门可疑程序。
-- [GScan](https://github.com/grayddq/GScan) - 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧安全Checklist的自动化，用于快速主机安全点排查。
+- [GScan](https://github.com/grayddq/GScan) - 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。
 - [pocscan](https://github.com/aStrowxyu/pocscan) - 
 - [midscan](https://github.com/colodoo/midscan) - 中间件扫描工具，网段测试资产收集
 - [N-MiddlewareScan](https://github.com/nihaohello/N-MiddlewareScan) - N-MiddlewareScan 魔改，自写的一款中间件漏洞扫描脚本
@@ -2082,7 +2102,7 @@
 - [tp5-getshell](https://github.com/theLSA/tp5-getshell) - thinkphp5 rce getshell
 - [Python-crawler-tutorial-starts-from-zero](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero) - python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架
 - [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
-- [FileMonitor](https://github.com/TheKingOfDuck/FileMonitor) - 文件变化实时监控工具(代码审计辅助工具)
+- [FileMonitor](https://github.com/TheKingOfDuck/FileMonitor) - 文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具)
 - [xxe-lab](https://github.com/c0ny1/xxe-lab) - 一个包含php,java,python,C#等各种语言版本的XXE漏洞Demo
 - [r3con1z3r](https://github.com/abdulgaphy/r3con1z3r) - R3con1z3r is a lightweight Web information gathering tool with an intuitive features written in python. it provides a powerful environment in which open source intelligence (OSINT) web-based footprinting can be conducted quickly and thoroughly.
 - [cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
@@ -2129,7 +2149,7 @@
 - [pwcracker](https://github.com/c0ny1/pwcracker) - 一款插件化的密码爆破框架
 - [EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 每日自动给女朋友发微信暖心话。
 - [femida](https://github.com/wish-i-was/femida) - Automated blind-xss search for Burp Suite
-- [MySQLMonitor](https://github.com/TheKingOfDuck/MySQLMonitor) - MySQL实时监控工具（黑盒测试辅助工具）
+- [MySQLMonitor](https://github.com/TheKingOfDuck/MySQLMonitor) - MySQL实时监控工具(代码审计/黑盒/白盒审计辅助工具)
 - [ChunkedHTTPAdapter](https://github.com/fnmsd/ChunkedHTTPAdapter) - 参考《利用分块传输吊打所有WAF》修改的requests的Adapter
 - [OSCP-prep](https://github.com/ex16x41/OSCP-prep) - my oscp prep collection
 - [POC-EXP](https://github.com/ym2011/POC-EXP) - 收集或编写各种漏洞PoC、ExP
@@ -2143,8 +2163,8 @@
 - [Nessus_to_report](https://github.com/Bypass007/Nessus_to_report) - Nessus中文报告自动化脚本
 - [pocsuite3](https://github.com/knownsec/pocsuite3) - pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.
 - [yandi-scanner](https://github.com/RASSec/yandi-scanner) - 中小型企业内外网安全自动化评估系统&Network Security Vulnerability Scanner
-- [w12scan-client](https://github.com/boy-hack/w12scan-client) - 网络资产搜索发现引擎，w12scan 扫描端程序
-- [WeblogicR](https://github.com/rabbitmask/WeblogicR) - Weblogic漏洞一键poc检测~
+- [w12scan-client](https://github.com/w-digital-scanner/w12scan-client) - 网络资产搜索发现引擎，w12scan 扫描端程序
+- [WeblogicScan](https://github.com/rabbitmask/WeblogicScan) - Weblogic vulnerability one-click poc detection.
 - [SSRFmap](https://github.com/swisskyrepo/SSRFmap) - Automatic SSRF fuzzer and exploitation tool
 - [weblogic-scan](https://github.com/kingkaki/weblogic-scan) - weblogic 漏洞扫描工具
 - [domain_pass_generate](https://github.com/xiangchunsheng/domain_pass_generate) - 通过域名生成爆破字典
@@ -2222,7 +2242,7 @@
 - [EventMonitor](https://github.com/liuhuanyong/EventMonitor) - Event monitor based on online news corpus including event storyline and analysis，基于给定事件关键词，采集事件资讯，对事件进行挖掘和分析。
 - [hacktronian](https://github.com/thehackingsage/hacktronian) - All in One Hacking Tool for Linux & Android
 - [JPentest](https://github.com/Jumbo-WJB/JPentest) - Jumbo Python Penetration testing framework
-- [superl-url](https://github.com/super-l/superl-url) - 已经开始升级，预计5月12号升级完成，交流群:50246933 【star数达到200就开始全新升级修复各种BUG】根据关键词，对搜索引擎内容检索结果的网址内容进行采集的一款轻量级软程序。  程序主要运用于安全渗透测试项目，以及批量评估各类CMS系统0DAY的影响程度，同时也是批量采集自己获取感兴趣的网站的一个小程序~~  可自动从搜索引擎采集相关网站的真实地址与标题等信息，可保存为文件，自动去除重复URL。同时，也可以自定义忽略多条域名等。
+- [superl-url](https://github.com/super-l/superl-url) - 根据关键词，对搜索引擎内容检索结果的网址内容进行采集的一款轻量级软程序。  程序主要运用于安全渗透测试项目，以及批量评估各类CMS系统0DAY的影响程度，同时也是批量采集自己获取感兴趣的网站的一个小程序~~  可自动从搜索引擎采集相关网站的真实地址与标题等信息，可保存为文件，自动去除重复URL。同时，也可以自定义忽略多条域名等。
 - [PyOne](https://github.com/abbeyokgo/PyOne) - PyOne-directory of onedrive
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [DB_BaseLine](https://github.com/wstart/DB_BaseLine) - 数据库基线检查工具
@@ -2304,7 +2324,7 @@
 - [CVE-2017-10271](https://github.com/c0mmand3rOpSec/CVE-2017-10271) - WebLogic Exploit
 - [PyQuickInstall](https://github.com/yhangf/PyQuickInstall) - :zap::zap::zap:超好用的pip下载加速工具，谁用谁知道！
 - [PyRat](https://github.com/anhkgg/PyRat) - PyRat，a rat by python xmlrpc
-- [S7scan](https://github.com/jiangsir404/S7scan) - a pentest scanner, To make excellent tools / 一个可以加载poc的漏洞综合利用工具
+- [S7scan](https://github.com/jiangsir404/S7scan) - a pentest scanner / 一个漏洞综合利用工具轮子，大佬请忽略
 - [blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - FakeNet-NG - Next Generation Dynamic Network Analysis Tool
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
@@ -2774,7 +2794,7 @@
 - [mocktailsmixer](https://github.com/Deeplocal/mocktailsmixer) - Make a DIY Robotic Mocktails Mixer Powered by the Google Assistant SDK
 - [irc-client](https://github.com/bl4de/irc-client) - Simple IRC (Internet Relay Chat) Client written in Python
 - [katoolin](https://github.com/LionSec/katoolin) - Automatically install all Kali linux tools
-- [hexo-git-backup](https://github.com/tanchao90/hexo-git-backup) - Back-up the source files of my blog.
+- [hexo-git-backup-tools](https://github.com/tanchao90/hexo-git-backup-tools) - Back-up the source files of my blog.
 - [docker-ida](https://github.com/intezer/docker-ida) - Run IDA Pro disassembler in Docker containers for automating, scaling and distributing the use of IDAPython scripts.
 - [fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
 - [aptc](https://github.com/jymcheong/aptc) - Automated Payload Test Controller
@@ -2951,6 +2971,7 @@
 - [docbook](https://github.com/justfbt/docbook) - 通过gitbook把固定格式的markdown文件转成html，然后上传至qiniu存储为静态站点，通过特定URL访问，也可以通过域名CNAME到特定URL访问
 - [gitbook-deploy](https://github.com/hexcola/gitbook-deploy) - a simple tool help me deploy gitbook to github pages.
 - [weixinpy](https://github.com/kun945/weixinpy) - Python client SDK for Micro Message Public Platform API.
+- [python-cheat-sheet](https://github.com/juliangaal/python-cheat-sheet) - Python Cheat Sheet NumPy, Matplotlib
 - [pandas-datareader](https://github.com/pydata/pandas-datareader) - Extract data from a wide range of Internet sources into a pandas DataFrame.
 - [tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
 - [pandasql](https://github.com/yhat/pandasql) - sqldf for pandas
@@ -2995,6 +3016,7 @@
 
 ## Rich Text Format 
 
+- [clover-efi](https://github.com/tsingui/clover-efi) - 分享整理一些黑苹果Clover驱动配置文件
 - [Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) - open source tutorial & information collector for hackintosh installation. 💻➕🍎
 - [clover](https://github.com/sqlsec/clover) - Share some hackintosh Clover files 分享一些黑苹果clover配置文件
 - [oletools](https://github.com/decalage2/oletools) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
@@ -3080,7 +3102,7 @@
 - [easysploit](https://github.com/KALILINUXTRICKSYT/easysploit) - EasySploit - Metasploit automation (EASIER and FASTER than EVER)
 - [docker-zerotier-moon](https://github.com/rwv/docker-zerotier-moon) - 🐳 A docker image to create zerotier moon in one step.
 - [dotfiles](https://github.com/hanxi/dotfiles) - bash + tmux + neovim
-- [Hackintosh](https://github.com/daliansky/Hackintosh) - 黑苹果长期维护机型EFI及安装教程整理
+- [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh黑苹果长期维护机型EFI及安装教程整理
 - [kvm-install-vm](https://github.com/giovtorres/kvm-install-vm) - Bash script to build local virtual machines using KVM/libvirt and cloud-init.
 - [zerotier](https://github.com/trawor/zerotier) - Join zerotier network auto
 - [LuWu](https://github.com/QAX-A-Team/LuWu) - 红队基础设施自动化部署工具
@@ -3343,7 +3365,7 @@
 - [graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
 - [nomohead](https://github.com/hrishioa/nomohead) - Simple Bash script that announces IP Address and ngrok tunnel of Raspberry Pi at boot
 - [ngrok-script](https://github.com/Hanson/ngrok-script) - A script to run local ngrok client for linux and windows
-- [AShell](https://github.com/alicfeng/AShell) - 开发者常用脚本sh
+- [AShell](https://github.com/alicfeng/AShell) - 开发者常用脚本shell
 - [n](https://github.com/tj/n) - Node version management
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [ubuntu-configuration](https://github.com/akalongman/ubuntu-configuration) - Configuration of Debian based OS, such as: Ubuntu, Mint, and Elementary OS
@@ -3452,6 +3474,7 @@
 - [VBlog](https://github.com/GitHub-Laziji/VBlog) - 使用GitHub API 搭建一个可动态发布文章的博客
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by electron-vue
 - [penework](https://github.com/xinali/penework) - Penetration Test Framwork
+- [geek-navigation](https://github.com/geekape/geek-navigation) - :star:极客猿梦导航，响应式动态导航页面(Vue版)，线上地址：[http://navigate.ym1024.com/]
 - [Hawkeye](https://github.com/0xbug/Hawkeye) - GitHub 泄露监控系统(GitHub Sensitive Information Leakage Monitor Spider)
 - [Yearning](https://github.com/cookieY/Yearning) - Mysql web端sql审核平台
 - [tank-front](https://github.com/eyebluecn/tank-front) - 蓝眼系列软件之《蓝眼云盘》前端项目
