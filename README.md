@@ -676,6 +676,7 @@
 
 ## HTML 
 
+- [HTML5](https://github.com/NalvyBoo/HTML5) - HTML5学习、总结、实践
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
 - [Real-timeDetectionAD_ver2](https://github.com/sisoc-tokyo/Real-timeDetectionAD_ver2) - 
 - [sec_profile](https://github.com/tanjiti/sec_profile) - 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)
@@ -810,7 +811,7 @@
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF) - An app to convert images to PDF file!
 - [CVE-2018-3252](https://github.com/pyn3rd/CVE-2018-3252) - CVE-2018-3252-PoC
 - [jboss-_CVE-2017-12149](https://github.com/yunxu1/jboss-_CVE-2017-12149) - CVE-2017-12149 jboss反序列化 可回显
-- [NewBie-Plan](https://github.com/553899811/NewBie-Plan) - Java 技术面试知识点总结,读书笔记 https://github.com/553899811/NewBie-Plan
+- [NewBie-Plan](https://github.com/553899811/NewBie-Plan) - Java 技术面试知识点总结  https://github.com/553899811/NewBie-Plan
 - [javacore](https://github.com/dunwu/javacore) - :coffee: JavaCore 是对 Java 核心技术的经验总结。
 - [spring-cloud-online-exam](https://github.com/19920625lsg/spring-cloud-online-exam) - 基于Spring Cloud的在线考试系统
 - [OnlineMall](https://github.com/29DCH/OnlineMall) - :arrow_up: 基于springboot+thymeleaf+spring data jpa+druid+bootstrap+layui等技术的JavaWeb电商项目(项目包含前后台,分为前台商城系统及后台管理系统。前台商城系统包含首页门户、商品推荐、商品分类、商品搜索、商品展示、商品详情、购物车、订单流程、用户中心、评论(有些bug,当时做得不够好,下一个项目的评论模块比这个好)、模拟支付等模块。 后台管理系统包含商品管理、订单管理、用户管理等模块。系统介绍及详细功能点、技术点见项目内文档描述):sunny:
@@ -829,7 +830,7 @@
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [manong-ssm](https://github.com/wistbean/manong-ssm) - 基于SSM框架的Java分布式电商项目
-- [retailscm-biz-suite](https://github.com/doublechaintech/retailscm-biz-suite) - 供应链，零售供应链中台系统，集成零售管理, 电子商务, 供应链管理,  财务管理, 车队管理, 仓库管理, 人员管理, 产品管理, 订单管理, 会员管理, 连锁店管理, 加盟管理, 前端React/Ant Design, 后端Java Spring+自有开源框架，全面支持MySQL, PostgreSQL, 全面支持国产数据库南大通用GBASE8.5s,通过REST接口调用，前后端完全分离。
+- [retailscm-biz-suite](https://github.com/doublechaintech/retailscm-biz-suite) - 供应链，零售供应链中台系统，集成零售管理, 电子商务, 供应链管理,  财务管理, 车队管理, 仓库管理, 人员管理, 产品管理, 订单管理, 会员管理, 连锁店管理, 加盟管理, 前端React/Ant Design, 后端Java Spring+自有开源框架，全面支持MySQL, PostgreSQL, 全面支持国产数据库南大通用GBase 8s,通过REST接口调用，前后端完全分离。
 - [S-mall-ssm](https://github.com/xenv/S-mall-ssm) - 小小商城系统，JavaWEB项目，基于SSM，仿天猫页面，功能齐全，实现了自动处理关联查询的通用Mapper、抽象 BaseService 类、注解鉴权、参数注解校验等
 - [xxl-sso](https://github.com/xuxueli/xxl-sso) - A distributed single-sign-on framework.（分布式单点登录框架XXL-SSO）
 - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
@@ -974,7 +975,7 @@
 - [itranswarp](https://github.com/michaelliao/itranswarp) - Full-featured CMS including blog, wiki, discussion, etc. powered by SpringBoot.
 - [storybook](https://github.com/storybooks/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - [Kiddy](https://github.com/Magicskys/Kiddy) - 被动式扫描器
-- [lxhToolHTTPDecrypt](https://github.com/lyxhh/lxhToolHTTPDecrypt) - HTTPDecrypt
+- [lxhToolHTTPDecrypt](https://github.com/lyxhh/lxhToolHTTPDecrypt) - HTTPDecrypt for Android Penetration Test
 - [ant](https://github.com/AntSwordProject/ant) - 实时上线的 XSS 盲打平台
 - [showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [tool](https://github.com/Louiszhai/tool) - 开发效率提升：Mac生产力工具链推荐
@@ -1129,7 +1130,7 @@
 - [Rtorrent-LXC](https://github.com/Kerwood/Rtorrent-LXC) - A Docker container with Rtorrent + Rutorrent.
 - [cqc](https://github.com/xcatliu/cqc) - Code Quality Checker - Check your code quality by running one command.
 - [TeleShellBot](https://github.com/marknote/TeleShellBot) - A simple Telegram Bot to run shell commands remotely
-- [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe) - A curated list of awesome café places in China.
+- [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe) - A curated list of awesome coffee places in China.
 - [BGAIssueBlog](https://github.com/bingoogolapple/BGAIssueBlog) - Vue + VueRouter + Vuex + Axios 抓取 GitHub 上的 Issues，结合 GitHub Pages 搭建个人博客站点，支持 GitHub 登录和评论
 - [reblog](https://github.com/ksco/reblog) - A blog system using GitHub Issues, powered by React + Redux.
 - [Dply-Autobuild-Server](https://github.com/malaohu/Dply-Autobuild-Server) - Dply.co自动创建服务器
@@ -1217,7 +1218,7 @@
 - [APlayer](https://github.com/MoePlayer/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 - [wheels](https://github.com/FrankFang/wheels) - 笨办法造轮子
 - [h2gb-ui](https://github.com/iagox86/h2gb-ui) - 
-- [xApi-Manager](https://github.com/duolatech/xApi-Manager) - XAPI MANAGER -专业实用的开源接口管理平台，为程序开发者提供一个灵活，方便，快捷的API管理工具，让API管理变的更加清晰、明朗。如果你觉得xApi对你有用的话，别忘了给我们点个赞哦^_^ ！
+- [xapimanager](https://github.com/duolatech/xapimanager) - XAPI MANAGER -专业实用的开源接口管理平台，为程序开发者提供一个灵活，方便，快捷的API管理工具，让API管理变的更加清晰、明朗。如果你觉得xApi对你有用的话，别忘了给我们点个赞哦^_^ ！
 - [My_CTF_Challenges](https://github.com/firesunCN/My_CTF_Challenges) - :fire::sunny:
 - [leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
 - [OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
@@ -1305,7 +1306,7 @@
 
 ## Lua 
 
-- [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
+- [icsmaster](https://github.com/w3h/icsmaster) - ICS/SCADA Security Resource（整合工控安全相关资源）
 - [nse_vuln](https://github.com/Rvn0xsy/nse_vuln) - Nmap扫描、漏洞利用脚本
 - [patoolkit](https://github.com/pentesteracademy/patoolkit) - PA Toolkit is a collection of traffic analysis plugins focused on security
 - [freevulnsearch](https://github.com/OCSAF/freevulnsearch) - Free and open NMAP NSE script to query vulnerabilities via the cve-search.org API.
@@ -1363,6 +1364,9 @@
 
 ## Others 
 
+- [sec_interview_know_list](https://github.com/tiaotiaolong/sec_interview_know_list) - 信息安全方面面试清单
+- [Web-Security-Note](https://github.com/Smi1e521/Web-Security-Note) - Record some common Web security sites
+- [kalitools](https://github.com/Jack-Liang/kalitools) - Kali Linux工具清单
 - [OSFCC](https://github.com/DrXie/OSFCC) - 一个收集可用于中文字体排印的开源字体集合。
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful.
 - [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。)
@@ -1522,7 +1526,7 @@
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [InsectsAwake](https://github.com/jeffzh3ng/InsectsAwake) - Network Vulnerability Scanner
 - [kali-linux-cheatsheet](https://github.com/NoorQureshi/kali-linux-cheatsheet) - Kali Linux Cheat Sheet for Penetration Testers
-- [50weekly](https://github.com/ihtml5/50weekly) - 50weekly 发现高质量的前端资源  第三十一周已更新
+- [50weekly](https://github.com/ihtml5/50weekly) - 50weekly 发现高质量的前端资源  第三十二周已更新
 - [The-Security-Handbook-Kali-Linux](https://github.com/DictionaryHouse/The-Security-Handbook-Kali-Linux) - A useful reference guide and a handbook of security basics for those starting out.
 - [Cyberspace_Security_Learning](https://github.com/q1271964185/Cyberspace_Security_Learning) - 在学习CTF、网络安全路上整合自己博客和一些资料，持续更新~
 - [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) - RSS: 优秀的个人情报来源
@@ -1821,6 +1825,7 @@
 
 ## PHP 
 
+- [php_xor_bypass](https://github.com/yzddmr6/php_xor_bypass) - 利用随机异或无限免杀d盾
 - [xss-platform](https://github.com/zzb1999/xss-platform) - 一款基于ThinkPHP5.1的XSS管理平台。
 - [valet-plus](https://github.com/weprovide/valet-plus) - Blazing fast macOS PHP development environment
 - [xssplatform](https://github.com/78778443/xssplatform) - 一个经典的XSS渗透管理平台
@@ -1976,6 +1981,7 @@
 
 ## PowerShell 
 
+- [dorado](https://github.com/h404bi/dorado) - 🐟 A bucket of Scoop, for h404bi
 - [Decryption-tool](https://github.com/klionsec/Decryption-tool) - 
 - [BlueCommand](https://github.com/leeberg/BlueCommand) - Dashboarding and Tooling front-end for PowerShell Empire using PowerShell Universal Dashboard
 - [PS-CreateADLabs](https://github.com/aaroneg/PS-CreateADLabs) - Create a windows Active Directory lab
@@ -2054,6 +2060,10 @@
 
 ## Python 
 
+- [geye](https://github.com/redstone-project/geye) - 🚀Faster Github Monitor🚀
+- [Archery](https://github.com/hhyo/Archery) - SQL审核查询平台，查询支持(MySQL/MsSQL/Oracle/Redis/PostgreSQL)、MySQL优化(SQLAdvisor|SOAR|SQLTuning)、慢日志管理、表结构对比、会话管理、阿里云RDS管理
+- [w9scan](https://github.com/w-digital-scanner/w9scan) - Plug-in type web vulnerability scanner
+- [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) - Web Pentesting Fuzz 字典,一个就够了。
 - [machinae](https://github.com/HurricaneLabs/machinae) - Machinae Security Intelligence Collector
 - [jwt_tool](https://github.com/ticarpi/jwt_tool) - :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 - [BurpCollect](https://github.com/orleven/BurpCollect) - 基于BurpCollector的二次开发， 记录Burpsuite Site Map记录的里的数据包中的目录路径参数名信息，并存入Sqlite，并可导出txt文件。
@@ -2250,7 +2260,7 @@
 - [SvnHack](https://github.com/callmefeifei/SvnHack) - 一个Svn信息泄露辅助工具，可以使用这个脚本列取网站目录，读取源码文件以及下载整站代码。
 - [pureblood](https://github.com/cr4shcod3/pureblood) - A Penetration Testing Framework created for Hackers / Pentester / Bug Hunter
 - [mybugscan](https://github.com/aleenzz/mybugscan) - fofa_api+bugscan插件扫描
-- [CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) - CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and 150 other CMSs
+- [CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) - CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 170 other CMSs
 - [etherum_rpc_steal](https://github.com/lcatro/etherum_rpc_steal) - The Etherum RPC Steal Toolset and honeypot .以太坊"偷渡"漏洞利用和蜜罐工具集.
 - [EventMonitor](https://github.com/liuhuanyong/EventMonitor) - Event monitor based on online news corpus including event storyline and analysis，基于给定事件关键词，采集事件资讯，对事件进行挖掘和分析。
 - [hacktronian](https://github.com/thehackingsage/hacktronian) - All in One Hacking Tool for Linux & Android
@@ -3118,6 +3128,7 @@
 - [docker-zerotier-moon](https://github.com/rwv/docker-zerotier-moon) - 🐳 A docker image to create zerotier moon in one step.
 - [dotfiles](https://github.com/hanxi/dotfiles) - bash + tmux + neovim
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh黑苹果长期维护机型EFI及安装教程整理
+- [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 - [kvm-install-vm](https://github.com/giovtorres/kvm-install-vm) - Bash script to build local virtual machines using KVM/libvirt and cloud-init.
 - [zerotier](https://github.com/trawor/zerotier) - Join zerotier network auto
 - [LuWu](https://github.com/QAX-A-Team/LuWu) - 红队基础设施自动化部署工具
