@@ -52,6 +52,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [Smali](#smali)
   - [Smarty](#smarty)
@@ -109,6 +110,7 @@
 
 ## C 
 
+- [Headshot](https://github.com/RITRedteam/Headshot) - NGINX module to allow for RCE through a specific header
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [ret-sync](https://github.com/bootleg/ret-sync) - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.
 - [smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
@@ -260,6 +262,8 @@
 
 ## C# # 
 
+- [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spanning a new Console Host Window
+- [SCShell](https://github.com/Mr-Un1k0d3r/SCShell) - Fileless lateral movement tool that relies on ChangeServiceConfigA to run command
 - [Watson](https://github.com/rasta-mouse/Watson) - Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities
 - [Ladon](https://github.com/k8gege/Ladon) - 大型内网渗透扫描器&Cobalt Strike，包含信息收集/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、Weblogic、ActiveMQ、Tomcat等，密码口令爆破含(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB)等,可高度自定义插件支持.NET程序集、DLL(C#/Delphi/VC)、PowerShell等语言编写的插件,支持通过配置INI批量调用任意外部程序或命令,EXP生成器一键生成Web漏洞POC,可快速扩展扫描或利用能力。支持Cobalt Strike插件化直接内存加载Ladon扫描快速拓展内网横向移动
 - [zh-fiddler](https://github.com/gabrielxvx/zh-fiddler) - Fiddler Web Debugger 中文版
@@ -528,6 +532,9 @@
 
 ## Go 
 
+- [nmap-to-netscan](https://github.com/ahhh/nmap-to-netscan) - A helper utility for turning nmap xml files into target lists for go-netscan
+- [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes
+- [gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client !!!!! ---&gt;  gout 要成为http client领域的瑞士军刀。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
 - [video-srt-windows](https://github.com/wxbool/video-srt-windows) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
 - [haaukins](https://github.com/aau-network-security/haaukins) - A Highly Accessible and Automated Virtualization Platform for Security Education
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
@@ -866,6 +873,7 @@
 
 ## Java 
 
+- [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux开源服务器监控解决方案，IT运维，进程监控，集群监控，内存监控，CPU监控，心跳检测
 - [wooyun-payload](https://github.com/boy-hack/wooyun-payload) - 从wooyun中提取的payload，以及burp插件
 - [automatic-api-attack-tool](https://github.com/imperva/automatic-api-attack-tool) - Imperva's customizable API attack tool takes an API specification as an input, generates and runs attacks that are based on it as an output.
 - [MSTG-Hacking-Playground](https://github.com/OWASP/MSTG-Hacking-Playground) - 
@@ -1103,6 +1111,7 @@
 
 ## JavaScript 
 
+- [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [web-ui](https://github.com/casbin/web-ui) - Casbin Official Web UI, for Casbin & Casbin-Server
 - [seccubus](https://github.com/seccubus/seccubus) - Easy automated vulnerability scanning, reporting and analysis
 - [massc](https://github.com/radenvodka/massc) - Subdomain Scanner Tools with word-lists
@@ -1540,18 +1549,22 @@
 
 ## Others 
 
+- [wstg](https://github.com/OWASP/wstg) - The OWASP Web Security Testing Guide includes a "best practice" penetration testing framework which users can implement in their own organizations and a "low level" penetration testing guide that describes techniques for testing most common web application and web service security issues.
+- [OSWE](https://github.com/timip/OSWE) - OSWE Preparation
+- [AWAE-Preparation](https://github.com/M507/AWAE-Preparation) - This repository will contain all trainings and tutorials I have done/read to prepare for OSWE / AWAE.
+- [awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
 - [ASCToolJar](https://github.com/Stars-One/ASCToolJar) - Android Signature Crack Tool Jar 破解APK签名验证的jar包
 - [Android-Security-Notes-personal](https://github.com/chicharitomu14/Android-Security-Notes-personal) - 个人整理的Android安全学习笔记
 - [smarGate](https://github.com/lazy-luo/smarGate) - 无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
 - [Awesome-Android-Learning-Guide](https://github.com/iwannabetop/Awesome-Android-Learning-Guide) - 一份系统、全面的安卓进阶学习指南（更新中）
 - [daily](https://github.com/pwstrick/daily) - 一份搜集的前端面试题目清单、面试相关以及各类学习的资料
-- [sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - Almost 18K security related open source tools, sorted by star count. Both in markdown and json format.
+- [sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 18K security related open source tools, sorted by star count. Both in markdown and json format.
 - [ssrf-video-ffmpeg](https://github.com/RASSec/ssrf-video-ffmpeg) - 
 - [seecode-audit](https://github.com/seecode-audit/seecode-audit) - Distributed white box code scanning tool
 - [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [web-development-2020-course-list](https://github.com/andrews1022/web-development-2020-course-list) - A list of Udemy courses from Brad Traversy's Web Development 2020 video
-- [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect!
+- [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 4600 open source tools)
 - [My-Github-Stars](https://github.com/tangsilian/My-Github-Stars) - My Github Stars
 - [awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) - A curated list of IDA x64DBG and OllyDBG plugins.
 - [darkRat_HVNC](https://github.com/Aekras1a/darkRat_HVNC) - DarkRats Standalone HVNC
@@ -1591,7 +1604,7 @@
 - [Safety-Project-Collection](https://github.com/Bypass007/Safety-Project-Collection) - 收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力。
 - [Translation-For-IoT-Penetration-Testing-Cookbook](https://github.com/chenzhao2013/Translation-For-IoT-Penetration-Testing-Cookbook) - 学习物联网渗透测试技术时，在Google上查到的一本英文书。看国内还未有该领域的书籍，因此将其翻译提供更多的同学学习。若有侵权，请联系删除。
 - [one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
-- [xray](https://github.com/chaitin/xray) - xray 安全评估工具 | 使用之前务必先阅读文档
+- [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [WeakPwd](https://github.com/klionsec/WeakPwd) - 
 - [btfm](https://github.com/fu4ck/btfm) - 
 - [Windows-Kernel-Explorer](https://github.com/AxtMueller/Windows-Kernel-Explorer) - A free but powerful Windows kernel research tool.
@@ -1825,7 +1838,7 @@
 - [Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
 - [Pentest-and-Development-Tips](https://github.com/3gstudent/Pentest-and-Development-Tips) - A collection of pentest and development tips
 - [Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
-- [awesome-chatbot-list](https://github.com/fatecbf/awesome-chatbot-list) - 深度学习聊天机器人资源集合 Awesome chatbot resource list
+- [awesome-chatbot-list](https://github.com/skdjfla/awesome-chatbot-list) - 深度学习聊天机器人资源集合 Awesome chatbot resource list
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [vTemplate](https://github.com/KiriKira/vTemplate) - v2ray的模板们
 - [awesome-bots](https://github.com/abdelhai/awesome-bots) - Awesome Links about bots.
@@ -2056,6 +2069,7 @@
 
 ## PHP 
 
+- [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends and family.
 - [composer-registry-manager](https://github.com/slince/composer-registry-manager) - :hammer_and_wrench: :hammer: Composer registry manager that help to easily switch to the  composer repository you want.
 - [get_AV](https://github.com/r00tSe7en/get_AV) - Windows杀软在线对比辅助
 - [note](https://github.com/422926799/note) - 记录自己写的工具和学习笔记
@@ -2301,6 +2315,8 @@
 
 ## Python 
 
+- [Virtuailor](https://github.com/0xgalz/Virtuailor) - IDAPython tool for creating automatic C++ virtual tables in IDA Pro
+- [Jandroid](https://github.com/FSecureLABS/Jandroid) - 
 - [Cerberus](https://github.com/YagamiiLight/Cerberus) - 一款功能强大的漏洞扫描器，子域名爆破使用aioDNS，asyncio异步快速扫描，覆盖目标全方位资产进行批量漏洞扫描，中间件信息收集，自动收集ip代理，探测Waf信息时自动使用来保护本机真实Ip，在本机Ip被Waf杀死后，自动切换代理Ip进行扫描，Waf信息收集(国内外100+款waf信息)包括安全狗，云锁，阿里云，云盾，腾讯云等，提供部分已知waf bypass 方案，中间件漏洞检测(Thinkphp,weblogic等 CVE-2018-5955,CVE-2018-12613,CVE-2018-11759等)，支持SQL注入, XSS, 命令执行,文件包含, ssrf 漏洞扫描, 支持自定义漏洞邮箱推送功能
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
@@ -2354,7 +2370,7 @@
 - [tracee](https://github.com/aquasecurity/tracee) - [EXPERIMENTAL] Container tracing using eBPF
 - [code2docx](https://github.com/sunyoubo/code2docx) - java、python、go、shell等项目代码读取并存储到一个word文档中，软著申请工具。
 - [proxypool](https://github.com/nihaohello/proxypool) - ip代理池，提供在线查询
-- [wechat-spider](https://github.com/striver-ing/wechat-spider) - 微信爬虫：爬取公众号所有 文章、阅读量、点赞量和评论内容。已将程序打包成可执行文件，支持window及mac，易部署。持续维护！！！
+- [wechat-spider](https://github.com/striver-ing/wechat-spider) - 开源微信爬虫：爬取公众号所有 文章、阅读量、点赞量和评论内容。易部署。持续维护！！！
 - [weixin-spider](https://github.com/xzkzdx/weixin-spider) - 微信公众号爬虫，公众号历史文章，文章评论，文章阅读及在看数据，可视化web页面，可部署于Windows服务器。基于Python3之flask/mysql/redis/mitmproxy/pywin32等实现，高效微信爬虫，微信公众号爬虫，历史文章，文章评论，数据更新。
 - [weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler) - 高效微信公众号全部历史文章和阅读数据爬虫powered by scrapy 微信公众号爬虫 微信采集 公众号采集 微信爬虫
 - [jeb-keygen](https://github.com/idhyt/jeb-keygen) - JEB install env
@@ -3468,8 +3484,14 @@
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
 - [minimal-tls](https://github.com/nafod/minimal-tls) - A minimal implementation of TLS
 
+## Scala 
+
+- [Argus-SAF](https://github.com/arguslab/Argus-SAF) - Argus static analysis framework
+
 ## Shell 
 
+- [Kali-TX](https://github.com/M507/Kali-TX) - Customized Kali Linux - Ansible playbook
+- [AndroRat-Detector](https://github.com/Djawed-Hammadi/AndroRat-Detector) - #Tool Coded By Bash Script To Get Payloads Rat Informations
 - [owasp-masvs](https://github.com/OWASP/owasp-masvs) - The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.
 - [static-toolbox](https://github.com/ernw/static-toolbox) - A collection of statically compiled tools like Nmap and Socat.
 - [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
