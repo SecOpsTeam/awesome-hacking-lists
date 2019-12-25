@@ -297,7 +297,7 @@
 - [PenCrawLer](https://github.com/TheM4hd1/PenCrawLer) - An Advanced Web Crawler and DirBuster
 - [pentestscripts](https://github.com/c4bbage/pentestscripts) - 白名单利用代码、渗透工具
 - [WGestures](https://github.com/yingDev/WGestures) - Modern mouse gestures for Windows. (C#)
-- [Knowte](https://github.com/digimezzo/Knowte) - Note taking
+- [knowte-windows](https://github.com/digimezzo/knowte-windows) - Note taking
 - [MediaPortal-2](https://github.com/MediaPortal/MediaPortal-2) - Development of MediaPortal 2
 - [VindicateTool](https://github.com/Rushyo/VindicateTool) - LLMNR/NBNS/mDNS Spoofing Detection Toolkit
 - [NFCGUI](https://github.com/RadioWar/NFCGUI) - NFCGUI 一个万恶的无聊的Windows图形界面！ GUI for libnfc
@@ -887,6 +887,7 @@
 
 ## Java 
 
+- [android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
 - [adonistrack](https://github.com/woozoo73/adonistrack) - Simple Java profiling tool
 - [InjuredAndroid](https://github.com/B3nac/InjuredAndroid) - A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style.
 - [powerauth-cmd-tool](https://github.com/wultra/powerauth-cmd-tool) - Command-line utility for PowerAuth Reference Client
@@ -900,7 +901,7 @@
 - [automatic-api-attack-tool](https://github.com/imperva/automatic-api-attack-tool) - Imperva's customizable API attack tool takes an API specification as an input, generates and runs attacks that are based on it as an output.
 - [MSTG-Hacking-Playground](https://github.com/OWASP/MSTG-Hacking-Playground) - 
 - [diva-android](https://github.com/payatu/diva-android) - DIVA Android - Damn Insecure and vulnerable App for Android
-- [shell-plus](https://github.com/0nise/shell-plus) - Shell Plus 是基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。该工具主要用于服务器管理、攻防后门安全测试以及技术研究，禁止用于非法犯罪。
+- [shell-plus](https://github.com/0nise/shell-plus) - 💻Shell Plus 是基于 RMI 的一款服务器管工具，由服务端、注册中心、客户端进行组成。该工具主要用于服务器管理、攻防后门安全测试以及技术研究，禁止用于非法犯罪。
 - [stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife) - android ui调试工具
 - [AndroTickler](https://github.com/ernw/AndroTickler) - Penetration testing and auditing toolkit for Android apps.
@@ -1133,6 +1134,7 @@
 
 ## JavaScript 
 
+- [InfoScraper](https://github.com/MichaelWayneLIU/InfoScraper) - 一个基于Electron的自动化Web资产探测工具，用于渗透前期的信息搜集工作
 - [frida-fuzzer](https://github.com/andreafioraldi/frida-fuzzer) - This experimetal fuzzer is meant to be used for API in-memory fuzzing.
 - [r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
 - [powerauth-admin](https://github.com/wultra/powerauth-admin) - PowerAuth Admin - Admin console for PowerAuth Server
@@ -2122,6 +2124,7 @@
 
 ## PHP 
 
+- [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges) - Collection of CTF Web challenges I made
 - [35c3](https://github.com/eboda/35c3) - Challenges I created for 35c3
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends and family.
@@ -2372,13 +2375,18 @@
 
 ## Python 
 
+- [Behold3r](https://github.com/ph4ntonn/Behold3r) - 收集指定网站的子域名，并可监控指定网站的子域名更新情况，发送变更报告至指定邮箱
+- [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
+- [AttackSurfaceMapper](https://github.com/superhedgy/AttackSurfaceMapper) - AttackSurfaceMapper is a tool that aims to automate the reconnaissance process.
+- [pylane](https://github.com/NtesEyes/pylane) - An python vm injector with debug tools, based on gdb.
+- [AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework) - AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications. No need to install on Windows.
 - [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) - An ethereum evm bytecode disassembler and static/dynamic analysis tool
 - [HaboMalHunter](https://github.com/Tencent/HaboMalHunter) - HaboMalHunter is a sub-project of Habo Malware Analysis System (https://habo.qq.com), which can be used for automated malware analysis and security assessment on the Linux system.
 - [IDF4APEV](https://github.com/brant-ruan/IDF4APEV) - Integrated Detection Framework for Android's Privilege Escalation Vulnerabilites
 - [metateta](https://github.com/WazeHell/metateta) - Metateta Automated Tool For Scanning And Exploiting Network Protocols Using Metasploit
 - [mobilehacktools](https://github.com/xebia/mobilehacktools) - A repository for scripting a mobile attack toolchain
 - [xia0LLDB](https://github.com/4ch12dy/xia0LLDB) - LLDB enhance python script by xia0 for reversing
-- [Coeus](https://github.com/wulio/Coeus) - Android sdk Scan包括android apk/sdk静态代码扫描以及国内政策扫描
+- [Coeus](https://github.com/wulio/Coeus) - Android apk/sdk Scan包括android apk/sdk 安全审计代码扫描以及国内政策扫描
 - [HRDevHelper](https://github.com/patois/HRDevHelper) - HexRays decompiler plugin that visualizes the ctree of decompiled functions.
 - [lighthouse](https://github.com/gaasedelen/lighthouse) - Code Coverage Explorer for IDA Pro & Binary Ninja
 - [AndroidAttacher](https://github.com/zhkl0228/AndroidAttacher) - IDA debugging plugin for android armv7 so
@@ -2433,7 +2441,7 @@
 - [sms_verification_code_API](https://github.com/Tiangewang0524/sms_verification_code_API) - 在线接收市面大部分app和网页的短信验证码，多平台，代替客户端使用
 - [openrasp-iast](https://github.com/baidu-security/openrasp-iast) - IAST 灰盒扫描工具
 - [AssetScan](https://github.com/JE2Se/AssetScan) - 资产探测工具，检测存活，检测风险端口，常规端口，全端口探测等等，对探测的端口的脆弱面进行安全分析进行
-- [LangNetworkTopology3](https://github.com/LangziFun/LangNetworkTopology3) - 内网主机端口扫描，运行服务检测，主机部署网站探测，资产自动化整理后输出可视化报表
+- [LangNetworkTopology3](https://github.com/LangziFun/LangNetworkTopology3) - 主机资产扫描--&gt;自动化整理扫描结果--&gt;输出可视化报表+整理结果
 - [RGPerson](https://github.com/gh0stkey/RGPerson) - RGPerson - 随机身份生成脚本
 - [Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
 - [Passive-Intelligence-Gathering-Aggregation-Tool](https://github.com/teamssix/Passive-Intelligence-Gathering-Aggregation-Tool) - Passive Intelligence Gathering Aggregation Tool 被动信息收集聚合工具
@@ -3546,6 +3554,7 @@
 
 ## Rust 
 
+- [super](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
 - [findomain](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time.
 - [rbkcrack](https://github.com/Aloxaf/rbkcrack) - Crack legacy zip encryption with Biham and Kocher's known plaintext attack. 使用明文攻击破解加密的 zip 文件
