@@ -342,6 +342,7 @@
 
 ## C++ 
 
+- [cutter](https://github.com/radareorg/cutter) - Free and Open Source Reverse Engineering Platform powered by radare2
 - [Droidscope](https://github.com/decaf-project/Droidscope) - A dynamic analysis platform for Android
 - [powerauth-mobile-sdk](https://github.com/wultra/powerauth-mobile-sdk) - Mobile SDK for PowerAuth Protocol (core, ios, watchos, android)
 - [lldbg](https://github.com/zmeadows/lldbg) - A lightweight native GUI for LLDB.
@@ -767,6 +768,8 @@
 
 ## HTML 
 
+- [APubPlat](https://github.com/wangweianger/APubPlat) - Devops自动化部署、堡垒机开源项目、Web Terminal
+- [gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 - [werdlists](https://github.com/decal/werdlists) - :keyboard: Wordlists, Dictionaries and Other Data Sets for Writing Software Security Test Cases
 - [morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automating Ettercap TCP/IP (MITM-hijacking Tool)
 - [androwarn](https://github.com/maaaaz/androwarn) - Yet another static code analyzer for malicious Android applications
@@ -1592,6 +1595,7 @@
 
 ## Others 
 
+- [cutter-plugins](https://github.com/radareorg/cutter-plugins) - A curated list of Community Plugins and Scripts written for Cutter
 - [secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev) - Collection of the most common vulnerabilities found in iOS applications
 - [iOS-Security-Guides](https://github.com/0xmachos/iOS-Security-Guides) - Every iOS security guide
 - [d4rkc0de-Android-CTF](https://github.com/indrarahul2013/d4rkc0de-Android-CTF) - d4rkc0de Android CTF
@@ -2375,6 +2379,9 @@
 
 ## Python 
 
+- [bufferfly](https://github.com/dr0op/bufferfly) - 攻防演习/渗透测试资产处理小工具，对攻防演习/渗透测试前的信息搜集到的大批量资产/域名进行存活检测、获取标题头、语料提取、常见web端口检测等。
+- [jeb2-samplecode](https://github.com/pnfsoftware/jeb2-samplecode) - Sample extensions for JEB Decompiler
+- [CDQR](https://github.com/orlikoski/CDQR) - The Cold Disk Quick Response (CDQR) tool is a fast and easy to use forensic artifact parsing tool that works on disk images, mounted drives and extracted artifacts from Windows, Linux, MacOS, and Android devices
 - [Behold3r](https://github.com/ph4ntonn/Behold3r) - 收集指定网站的子域名，并可监控指定网站的子域名更新情况，发送变更报告至指定邮箱
 - [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
 - [AttackSurfaceMapper](https://github.com/superhedgy/AttackSurfaceMapper) - AttackSurfaceMapper is a tool that aims to automate the reconnaissance process.
@@ -2860,7 +2867,7 @@
 - [OWASP-Nettacker](https://github.com/zdresearch/OWASP-Nettacker) - Automated Penetration Testing Framework
 - [PHP-code-audit](https://github.com/jiangsir404/PHP-code-audit) - php code audit for cms vulnerabilities / 代码审计，对一些大型cms漏洞的复现研究，更新源码和漏洞exp
 - [GSIL](https://github.com/FeeiCN/GSIL) - GitHub Sensitive Information Leakage（GitHub敏感信息泄露监控）
-- [CTF_tools](https://github.com/Ollyder/CTF_tools) - 用于CTF密码学和编码转换的小工具
+- [CTF_tools](https://github.com/yuhang-dong/CTF_tools) - 用于CTF密码学和编码转换的小工具
 - [better-ctf-tools](https://github.com/haikouxuege/better-ctf-tools) - 更好的ctf密码学加解密及编解码工具
 - [mitm6](https://github.com/fox-it/mitm6) - pwning IPv4 via IPv6
 - [reverse-engineering-reference-manual](https://github.com/yellowbyte/reverse-engineering-reference-manual) - collage of reverse engineering topics that I find interesting
@@ -3574,6 +3581,7 @@
 
 ## Shell 
 
+- [PAKURI](https://github.com/01rabbit/PAKURI) - Penetration test Achieve Knowledge Unite Rapid Interface
 - [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [android-kernel-lab](https://github.com/ssaroussi/android-kernel-lab) - Automated Android Kernel Playground
 - [PE-Linux](https://github.com/WazeHell/PE-Linux) - Linux Privilege Escalation Tool By WazeHell
