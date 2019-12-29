@@ -342,6 +342,7 @@
 
 ## C++ 
 
+- [HyperViper](https://github.com/FoxHex0ne/HyperViper) - Toolkit for Hyper-V security research
 - [cutter](https://github.com/radareorg/cutter) - Free and Open Source Reverse Engineering Platform powered by radare2
 - [Droidscope](https://github.com/decaf-project/Droidscope) - A dynamic analysis platform for Android
 - [powerauth-mobile-sdk](https://github.com/wultra/powerauth-mobile-sdk) - Mobile SDK for PowerAuth Protocol (core, ios, watchos, android)
@@ -448,6 +449,7 @@
 
 ## CSS 
 
+- [fofa_view](https://github.com/0nise/fofa_view) - FOFA Pro view 是一款FOFA Pro 资产展示浏览器插件，目前兼容  Chrome、Firefox、Opera。
 - [powerauth-docker](https://github.com/wultra/powerauth-docker) - Docker images for PowerAuth 2.0 Software
 - [secure-mobile-development](https://github.com/nowsecure/secure-mobile-development) - A Collection of Secure Mobile Development Best Practices
 - [repo-to-pdf](https://github.com/josherich/repo-to-pdf) - repository to pdf
@@ -477,7 +479,7 @@
 - [tintedarc](https://github.com/nizarmah/tintedarc) - An XFCE custom arc and tint2 auto-themer, voila you have yourself a nice theme
 - [CloudFlarePartner](https://github.com/luodaoyi/CloudFlarePartner) - CloudFlare  partner   website with python and flask
 - [vimix-gtk-themes](https://github.com/vinceliuice/vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
-- [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 52 kinds of fantastic fonts!
+- [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 63 kinds of fantastic fonts!
 - [V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) - 正在开发的全新 V2ray.Fun
 - [hashview](https://github.com/hashview/hashview) - A web front-end for password cracking and analytics
 - [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
@@ -1146,6 +1148,7 @@
 
 ## JavaScript 
 
+- [DVHMA](https://github.com/logicalhacking/DVHMA) - Damn Vulnerable Hybrid Mobile App (DVHMA) is an hybrid mobile app (for Android) that intentionally contains vulnerabilities.
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [InfoScraper](https://github.com/MichaelWayneLIU/InfoScraper) - 一个基于Electron的自动化Web资产探测工具，用于渗透前期的信息搜集工作
 - [frida-fuzzer](https://github.com/andreafioraldi/frida-fuzzer) - This experimetal fuzzer is meant to be used for API in-memory fuzzing.
@@ -1175,7 +1178,6 @@
 - [pdfTranslator](https://github.com/axipo/pdfTranslator) - 一个具有划词翻译功能的跨平台pdf阅读器，用着挺好用开源一下造福众科研人员，欢迎star
 - [Awesome--Frida-UI](https://github.com/viva-frida/Awesome--Frida-UI) - this tool for beginner , and make easier to use this
 - [aws-fullstack-website](https://github.com/tobilg/aws-fullstack-website) - Deploy your fullstack websites without all the hassle on AWS with CloudFront, S3, ACM, Route53, API Gateway and Lambda via Serverless.
-- [shop](https://github.com/upheart-man/shop) - 一个SSM分布式电商项目
 - [codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world
 - [Quella](https://github.com/fengbindev/Quella) - Quella是基于SSM+shiro+redis开发的后台脚手架，集成了一些后台通用功能，并集成了一些常用的第三方服务。
@@ -1584,7 +1586,8 @@
 
 ## Objective-C 
 
-- [ZXHookDetection](https://github.com/SmileZXLee/ZXHookDetection) - 【iOS应用安全】hook及越狱的基本防护与检测(动态库注入检测、hook检测与防护、越狱检测、签名校验、IDA反编译加密协议示例)
+- [Bob](https://github.com/ripperhe/Bob) - Bob 是一款  Mac 端翻译软件~
+- [ZXHookDetection](https://github.com/SmileZXLee/ZXHookDetection) - 【iOS应用安全】hook及越狱的基本防护与检测(动态库注入检测、hook检测与防护、越狱检测、签名校验、IDA反编译分析加密协议示例)
 - [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Quick Look plugin for apps and provisioning profile files
 - [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac版微信的功能拓展
 - [YourView](https://github.com/TalkingData/YourView) - YourView is a desktop App in MacOS based on Apple SceneKit. You may use it to view iOS App's view hierarchy 3D.
@@ -1607,6 +1610,9 @@
 
 ## Others 
 
+- [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
+- [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Windows/iOS/Android/MacOS  投屏sdk, 支持Airplay
+- [crawlergo](https://github.com/0Kee-Team/crawlergo) - A powerful dynamic crawler for web vulnerability scanners
 - [WebFuzzAttack](https://github.com/l3m0n/WebFuzzAttack) - web模糊测试 - 将漏洞可能性放大
 - [Hacking-Skills](https://github.com/RedTeamWing/Hacking-Skills) - Collect open vulnerabilities and sort them out！😄
 - [awesome-cyber-security](https://github.com/alphaSeclab/awesome-cyber-security) - [Draft]Awesome Cyber Security Resource Collection. Currently contains 8000+ open source repositories, and not very well classified. For each repository, extra info included: star count, commit count, last update time. This is the DRAFT version.
@@ -2146,6 +2152,7 @@
 
 ## PHP 
 
+- [image](https://github.com/Hidove/image) - 多接口分发图床
 - [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges) - Collection of CTF Web challenges I made
 - [35c3](https://github.com/eboda/35c3) - Challenges I created for 35c3
@@ -2397,6 +2404,8 @@
 
 ## Python 
 
+- [rssant](https://github.com/anyant/rssant) - 蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯
+- [Flask_Bug_Platform](https://github.com/Ph0rse/Flask_Bug_Platform) - Flask代码审计练习靶场，初始代码源自https://github.com/yubang/cms
 - [scantron](https://github.com/rackerlabs/scantron) - A distributed nmap / masscan scanning framework
 - [BitBlinder](https://github.com/BitTheByte/BitBlinder) - Burp extension helps in finding blind xss vulnerabilities
 - [BurpSuite-Secret_Finder](https://github.com/m4ll0k/BurpSuite-Secret_Finder) - Burp Suite extension to discover apikeys/accesstokens and sensitive data  from HTTP response.
@@ -2874,7 +2883,6 @@
 - [ver-observer](https://github.com/neargle/ver-observer) - Detection version of framework \ CMS \ dev-dependence on target website.
 - [SecRss](https://github.com/anbai-inc/SecRss) - RSS安全订阅 每日安全信息推送
 - [ojbk_jiexi](https://github.com/abbeyokgo/ojbk_jiexi) - ojbk视频解析源码，支持tumblr/2mm/91porn/微博
-- [wiki2post](https://github.com/louisun/wiki2post) - 自动从 wiki 目录生成静态博客所需所有 Markdown 文件以及自动化部署、备份流程
 - [bug-monitor](https://github.com/FortuneC00kie/bug-monitor) - Seebug、structs、cve漏洞实时监控推送系统🔦
 - [shadowProxy](https://github.com/odboy/shadowProxy) - 
 - [kinproxy](https://github.com/mh4x0f/kinproxy) - my implements transparent proxies (mitmproxy) can use to intercept and manipulate HTTP traffic modifying requests and responses. CLI
@@ -3069,7 +3077,7 @@
 - [katoolin4china](https://github.com/rikonaka/katoolin4china) - Kali tools installer
 - [shodanwave](https://github.com/hackatnow/shodanwave) - Shodanwave is a tool for exploring and obtaining information from Netwave IP Camera.
 - [rtcp](https://github.com/loveshell/rtcp) - 
-- [rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - rdiff-backup
+- [rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally.
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [PRET](https://github.com/RUB-NDS/PRET) - Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
@@ -3604,6 +3612,7 @@
 
 ## Shell 
 
+- [Domain-Driven-Design-zh](https://github.com/gdut-yy/Domain-Driven-Design-zh) - 《领域驱动设计》中文翻译
 - [aria2-ariang-docker](https://github.com/sanjusss/aria2-ariang-docker) - 打包了Aria2、AriaNg，支持密码验证，无需手动设置aria2 rpc
 - [lazyrecon](https://github.com/nahamsec/lazyrecon) - This script is intended to automate your reconnaissance process in an organized fashion
 - [bbht](https://github.com/nahamsec/bbht) - A script to set up a quick Ubuntu 17.10 x64 box with tools I use.
@@ -3937,6 +3946,7 @@
 
 ## Swift 
 
+- [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) - RSS reader for macOS.
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
 - [mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [EFResume](https://github.com/EyreFree/EFResume) - Emmmmmn, a normal resume templete in Swift.
@@ -4042,7 +4052,7 @@
 
 ## Vue 
 
-- [ElementUIAdmin2](https://github.com/xusenlin/ElementUIAdmin2) - Element UI Admin Template
+- [VueElementUiAdmin](https://github.com/xusenlin/VueElementUiAdmin) - Element UI Admin Template
 - [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥
 - [vue-mall](https://github.com/yucccc/vue-mall) - 🔨 基于 vue+node+mongodb 实现一个锤子商城
 - [baidupcs-web](https://github.com/liuzhuoling2011/baidupcs-web) - 
