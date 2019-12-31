@@ -264,6 +264,7 @@
 
 ## C# # 
 
+- [Elite](https://github.com/cobbr/Elite) - Elite is the client-side component of the Covenant project. Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.
 - [zBang](https://github.com/cyberark/zBang) - zBang is a risk assessment tool that detects potential privileged account threats
 - [DSInternals](https://github.com/MichaelGrafnetter/DSInternals) - Directory Services Internals (DSInternals) PowerShell Module and Framework
 - [chocoProxy](https://github.com/rveldhoven/chocoProxy) - 
@@ -902,6 +903,8 @@
 
 ## Java 
 
+- [SecMobile](https://github.com/wrlu/SecMobile) - 移动安全检测平台，支持Android和iOS应用辅助分析。
+- [FridaHooker](https://github.com/wrlu/FridaHooker) - Android平台可视化Frida管理工具
 - [kafkahq](https://github.com/tchiotludo/kafkahq) - Kafka GUI for topics, topics data, consumers group, schema registry, connect and more...
 - [falcon](https://github.com/fntneves/falcon) - Falcon: A practical log-based analysis tool for distributed systems
 - [poi-slinger](https://github.com/ricardojba/poi-slinger) - Automatically identify serialization issues in PHP Frameworks by means of an Burp Suite active scan
@@ -1158,6 +1161,7 @@
 
 ## JavaScript 
 
+- [Frida-Hook-Android](https://github.com/wrlu/Frida-Hook-Android) - Android平台的Frida Hook工程
 - [DockerSecurityPlayground](https://github.com/giper45/DockerSecurityPlayground) - A Microservices-based framework for the study of Network Security and Penetration Test techniques
 - [squatm3gator](https://github.com/david3107/squatm3gator) - Squatm3gator is a complete web solution based on the python tool squatm3, designed to enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 - [DVHMA](https://github.com/logicalhacking/DVHMA) - Damn Vulnerable Hybrid Mobile App (DVHMA) is an hybrid mobile app (for Android) that intentionally contains vulnerabilities.
@@ -2168,6 +2172,7 @@
 
 ## PHP 
 
+- [php-version-audit](https://github.com/lightswitch05/php-version-audit) - Audit your PHP version for known CVEs and patches
 - [image](https://github.com/Hidove/image) - 多接口分发图床
 - [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges) - Collection of CTF Web challenges I made
@@ -2421,6 +2426,8 @@
 
 ## Python 
 
+- [dlinject](https://github.com/DavidBuchanan314/dlinject) - Inject a shared library (i.e. arbitrary code) into a live linux process, without ptrace
+- [WebMap](https://github.com/PunitTailor55/WebMap) - Nmap Web Dashboard and Reporting
 - [KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
 - [CyBot](https://github.com/cylance/CyBot) - Open Source Threat Intelligence Chat Bot
 - [SPF](https://github.com/tatanus/SPF) - SpeedPhishing Framework
@@ -4003,6 +4010,7 @@
 
 ## TSQL 
 
+- [SecIoT-Web](https://github.com/wrlu/SecIoT-Web) - IoT漏洞检测平台，支持固件第三方库版本分析。移动安全相关功能移至SecMobile。
 - [Security-Data-Analysis-and-Visualization](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization) - 2018-2020青年安全圈-活跃技术博主/博客
 - [nebula](https://github.com/threathunterX/nebula) - "星云"业务风控系统，主工程
 - [java-exam](https://github.com/mikemelon/java-exam) - Java实现的包含题库编辑、抽题组卷、试题分析、在线考试等模块的Web考试系统。
